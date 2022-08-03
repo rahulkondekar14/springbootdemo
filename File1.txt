@@ -14,6 +14,7 @@ What's Changed
 What's Evolving
           Security
           Metrics
+<<<<<<< HEAD
 What's Changed
           Configuration Properties
           Gradle Plugin
@@ -21,3 +22,8 @@ What's Changed
 What's Evolving
           Security
           Metrics
+          
+  //New Changes has done By Akshay Here
+What's java?
+   java is progamming languages used for creating application etc.  
+          
