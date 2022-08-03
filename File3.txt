@@ -1,0 +1,21 @@
+github...
+1. create a repo
+2. add 2 files with 10 line code /text push to master branch. 
+2. share the url with AKshay
+3. Akshay and Rahul will clone this url in there local for master branch..
+4. currently master branch was in use. 
+5. Akshay created new branch out of master called akshay
+6. Akshay created files and updated old files. 
+7. Mean while Rahul also created and updated files master branch.. 
+
+---------------------------------------------------------------------
+
+8. Rahul pushed his changes to master branch. 
+9. Akshay want to push his changes in akshay branch... 
+10. Akshay want to merge his changes into the Master branch.
+	a. Akshay will take the pull from master branch
+	b. Aksahy will merge master into the akshay. resolve all the conflicts. 
+	c. Akshay will commit and push all the changes to akshay branch. 
+	d. Akshay will now merge the changes into master branch and pushit. 
+
+11. Rahull will have to take the pull from MAster branch... so that Askhay changes will be availble to RAhul 
