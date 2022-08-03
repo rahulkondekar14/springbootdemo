@@ -1,0 +1,23 @@
+Spring Boot Version
+The latest version of Spring Boot is 2.0. It introduces a lot of new features along with some modifications and replacement.
+
+Spring Boot 2.0
+Let's have a sneak peek at Spring Boot 2.0.
+
+What's New
+          Infrastructure Upgrade
+          Spring Framework 5
+What's Changed
+          Configuration Properties
+          Gradle Plugin
+          Actuators endpoints
+What's Evolving
+          Security
+          Metrics
+What's Changed
+          Configuration Properties
+          Gradle Plugin
+          Actuators endpoints
+What's Evolving
+          Security
+          Metrics
