@@ -14,7 +14,6 @@ What's Changed
 What's Evolving
           Security
           Metrics
-<<<<<<< HEAD
 What's Changed
           Configuration Properties
           Gradle Plugin
